@@ -1,9 +1,10 @@
-
+<img src='./SL-101619-24150-46.jpg' alt='photo' />
+</br>
 # 💫 About Me:
 
-<img src='./SL-101619-24150-46.jpg' alt='photo' />
-Hi, I'm **Ramin Akbari**, a **Full Stack Developer & Software Engineer**.  
-I build modern and efficient web applications using **PHP, Laravel, React, Java, JavaScript, and Databases**.  
+
+<h3>Hi, I'm Ramin Akbari, a <h2></h2>Full Stack Developer & Software Engineer</h2></h3>.  
+I build modern and efficient web applications using <h3></h3>PHP, Laravel, React, Java, JavaScript, and Databases</h3>.  
 
 I enjoy solving challenging problems, learning new technologies, and contributing to open-source projects.
 
