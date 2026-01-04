@@ -1,5 +1,7 @@
 
 # 💫 About Me:
+
+<img src='./SL-101619-24150-46.jpg' alt='photo' />
 Hi, I'm **Ramin Akbari**, a **Full Stack Developer & Software Engineer**.  
 I build modern and efficient web applications using **PHP, Laravel, React, Java, JavaScript, and Databases**.  
 
