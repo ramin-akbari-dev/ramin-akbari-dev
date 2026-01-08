@@ -1,5 +1,5 @@
-<img src="./bg-img-ramin-github.png" alt="photo"/>
-# 💫 About Me:
+<img src="./bg-img-ramin-github.png" wdith="350px" alt="photo"/>
+💫 About Me:
 
 Hi, I'm **Ramin Akbari**, a **Full Stack Developer & Software Engineer**.  
 I build modern and efficient web applications using **PHP, Laravel, React, Java, JavaScript, and Databases**.  
