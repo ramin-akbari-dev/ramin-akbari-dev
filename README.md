@@ -1,4 +1,4 @@
-
+<img src="./bg-img-ramin-github" alt="photo"/>
 # 💫 About Me:
 
 Hi, I'm **Ramin Akbari**, a **Full Stack Developer & Software Engineer**.  
