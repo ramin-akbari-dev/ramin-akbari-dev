@@ -1,10 +1,10 @@
 <div align="center">
   <img src="bg-img-ramin-github.png" width="400" />
+  <br />
 </div>
 
+**About Me**
 <br />
-
-<h2>About Me</h2>
 Hi, I'm **Ramin Akbari**, a **Full Stack Developer & Software Engineer**.  
 I build modern and efficient web applications using **PHP, Laravel, React, Java, JavaScript, and Databases**.  
 
